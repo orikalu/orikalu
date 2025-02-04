@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @orikalu
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning full stack cloud development
 - 📫 How to reach me: 
-  - sandra.kalu@outlook.com
+  - soriakukay@gmail.com
   - www.linkedin.com/in/sandrakalu
 
 <!---
